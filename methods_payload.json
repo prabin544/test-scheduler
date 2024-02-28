@@ -1,0 +1,6 @@
+{
+  "get_current_time": {
+    "params": "abcd",
+    "interval": 10
+  }
+}
